@@ -24,9 +24,9 @@ To get started with the visualizations in this repository:
 
 This project requires the following Python libraries:
 
-- **Matplotlib** (version X.X.X)
-- **Seaborn** (version X.X.X)
-- **Jupyter Notebook** (if you want to run the provided notebooks)
+- **Matplotlib** 
+- **Seaborn** 
+- **Jupyter Notebook** 
 
 You can install these dependencies using `pip` or `conda`:
 
